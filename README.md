@@ -3,6 +3,8 @@
 A **Streamlit-based interactive simulation app** designed for rural resilience.  
 This project demonstrates soil & crop advisory, microgrid energy forecasting, and road safety features in a single dashboard.  
 
+> ⚠️ **Disclaimer:** The data used in this project is **not real**. It is fully simulated and created only for practicing **Streamlit**.
+
 ---
 
 ## 🚀 Features
@@ -26,3 +28,9 @@ This project demonstrates soil & crop advisory, microgrid energy forecasting, an
 
 ---
 
+## 🛠️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/smart-rural-resilience.git
+   cd smart-rural-resilience
