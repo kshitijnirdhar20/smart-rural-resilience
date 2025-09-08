@@ -1,8 +1,28 @@
-# 🌾 Smart Rural Resilience — Simulation
+# 🌾 Smart Rural Resilience — Simulation Dashboard
 
-A Streamlit-based simulation app for showcasing **soil & crop advisory**, **microgrid management**, and **emergency road highlighter demo**.
+A **Streamlit-based interactive simulation app** designed for rural resilience.  
+This project demonstrates soil & crop advisory, microgrid energy forecasting, and road safety features in a single dashboard.  
+
+---
 
 ## 🚀 Features
-- **Soil & Crop Advisor**: Generates soil readings (pH, moisture, NPK, temperature) and recommends suitable crops.  
-- **Microgrid Controller**: Forecasts solar energy and simulates 24-hour battery performance with load-shedding alerts.  
-- **Road Highlighter Demo**: Emergency trigger that shows safe routes during crises.  
+
+### 1. Soil & Crop Advisor (Simulated)
+- Generates soil readings (pH, moisture, temperature, NPK).
+- Recommends suitable crops based on conditions.
+- Provides fertilizer tips.
+- Includes a mock LCD display and voice output preview.
+
+### 2. Microgrid Controller (Simulated)
+- Generates historic solar and demand data.
+- Forecasts next day’s solar profile using moving average.
+- Simulates battery charge/discharge for 24 hours.
+- Shows when non-critical loads need to be shed.
+- Exports simulation logs as CSV.
+
+### 3. Road Highlighters (Demo)
+- Trigger emergency mode to activate road highlighters.
+- Displays safe route visualization.
+
+---
+
